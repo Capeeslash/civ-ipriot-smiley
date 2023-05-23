@@ -13,7 +13,7 @@ if __name__ == '__main__':
     ############################################################
 
     # Create a happy smiley, which is a subclass of Smiley
-    smiley = Happy()
+    smiley = sad()
 
     # This is a form of #polymorphism, as the Happy smiley class
     # does not have a method called .show(). This means that
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     smiley.show()
 
     # Just a short delay
-    time.sleep(1)
+    time.sleep(5)
 
     # Another form of polymorphism:
     # The method blink is implemented by the Happy class, but
