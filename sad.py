@@ -33,4 +33,3 @@ class Sad(Smiley):
         time.sleep(delay)
         self.draw_eyes(wide_open=True)
         self.show()
-
