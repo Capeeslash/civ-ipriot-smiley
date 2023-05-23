@@ -8,6 +8,7 @@ class Angry(Smiley):
 
         self.draw_mouth()
         self.draw_eyes()
+        self.draw_eyebrows()
 
     def draw_mouth(self):
         """
