@@ -21,7 +21,7 @@ if __name__ == '__main__':
     smiley.show()
 
     # Just a short delay
-    time.sleep(5)
+    time.sleep(1)
 
     # Another form of polymorphism:
     # The method blink is implemented by the Happy class, but
