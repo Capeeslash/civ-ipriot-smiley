@@ -2,6 +2,7 @@
 import time
 
 from happy import Happy
+from smiley import Smiley
 
 if __name__ == '__main__':
     # This is only needed if you have not deleted sense_hat.py
